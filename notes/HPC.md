@@ -41,10 +41,10 @@
 * Tpo my knowlege, there are few published works on using machine learning to forecast earthquakes. 
 * If you want the right answer, you need to ask the right question. * If you ask a question that has a narrow focus, your answer will likely be better. 
 * Simulation team will be generating the data that we will be working on.
-# Tasks
+## Tasks
 * Determine at least three different ways to represent the state of RSQsim in the context of earthquake 
 
-# Helpful skills
+## Helpful skills
 * Previous knowledge / experience with Machine LEarning 
 * Mathmatical intuition
 * Programming skills (esp python)
