@@ -1,5 +1,4 @@
-Years(x10),Carrizo_1,Carrizo_2,Cholame_1,Cholame_2,Mojave_1,Mojave_2,Coachella_1,Coachella_2,Anza_1,Anza_2,Garlock_1,Garlock_2
-,eruption_count,year_increase_count,eruption_count,year_increase_count,eruption_count,year_increase_count,eruption_count,year_increase_count,eruption_count,year_increase_count,eruption_count,year_increase_count
+Years,Carrizo_eruption_freq,Carrizo_year_increase,Cholame_eruption_freq,Cholame_year_increase,Mojave_eruption_freq,Mojave_year_increase,Coachella_eruption_freq,Coachella_year_increase,Anza_eruption_freq,Anza_year_increase,Garlock_eruption_freq,Garlock_year_increase
 0,26,6146,4,5821,1,5115,0,3254,0,2504,2,1609
 1,25,6121,4,5817,0,5115,0,3254,0,2504,1,1608
 2,25,6097,14,5804,1,5114,0,3254,0,2504,4,1604
