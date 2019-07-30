@@ -16,7 +16,7 @@ The models were built based on two separate interval/binning methods on 'eqdata_
 ###### About the datasets folder: 
 1. 'eqdata_33_sections' is the base final, from which 'eqdata_33_sects_testing' and 'eqdata_33_sects_training' are a straight split of eqdata_33_sections. From there, the other training/testing files are made based on the two separate binning/interval interpretations mentioned above.  Namely the open interval, and the 100 year input / 30 year output sum interval method. As an example, 'eqdata_33_sections_30_year_intervals_testing' is the open interval testing set. 
 2. Why some files are binary files: if you don't use the binary files, colab notebooks had some issues, so we had to make some binary files.  
-#### The google drive has: 
+#### Not found in this repo, but found in the google drive: 
 * Code to build the ML models
 * Code for generating probabilities
 * Visualization tools (ROC curves, scoring plots, etc) 
