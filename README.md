@@ -2,9 +2,9 @@
 Repository for the 2019 Machine Learning team.  A place to host datasets, probabilities, and code.
 
 
-### Folder/File structure: 
+### About this repo, and which folder to use in 2020 and beyond: 
 The final files folder is a distilled compilation of everything needed to use and run the 2019 team's code / results.
-Everything else was used prior to the creation of the final files folder.
+Everything else was used prior to the creation of the final files folder. We kept the other folders the same for our convenience with not having to change url's in some of our code.  Moving forward we suggest working strictly out of the final files folder.
 
 The models were built based on two separate interval/binning methods on 'eqdata_33_sections'.  The first one was open interval (ask Bill Savran), the second was a 100 year input bin, 30 year output bin. 
 ####  About the final files folder: 
