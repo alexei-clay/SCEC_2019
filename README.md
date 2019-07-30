@@ -19,4 +19,5 @@ The models were built based on two separate interval/binning methods on 'eqdata_
 #### The google drive has: 
 * Code to build the ML models
 * Code for generating probabilities
+* Visualization tools (ROC curves, scoring plots, etc) 
 * Results files
